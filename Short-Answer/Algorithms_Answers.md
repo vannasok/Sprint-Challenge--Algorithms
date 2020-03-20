@@ -4,7 +4,7 @@
 
 a)O(n) the loop run based on n
 
-b)O(n^2) the outer loop run O(n), and the inner loop also run O(n),
+b)O(nlogn) the outer loop run O(n), and the inner loop also run O(logn),
 
 c) O(n) This recursive function only happens as many times as n is.
 
